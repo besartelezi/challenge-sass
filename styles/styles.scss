@@ -80,10 +80,7 @@ h6 {
   margin-bottom: 0;
 }
 
-.message,
-.success,
-.error,
-.warning {
+.message {
   border: 1px solid #ccc;
   padding: $red;
   color: #2748B3;
@@ -92,14 +89,17 @@ h6 {
 }
 
 .success {
+  @extend .message;
   background-color: green
 }
 
 .error {
+  @extend .message;
   background-color: red
 }
 
 .warning {
+  @extend .message;
   background-color: orange
 }
 footer{
