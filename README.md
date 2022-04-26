@@ -5,7 +5,8 @@ I started out this challenge by following the steps on: https://sass-lang.com/in
 
 I chose to install it through Node.js, however, once I'm done with this challenge I will try the "Install Anywhere (Standalone)" option that is mentioned on the website.
 
-A very interesting video that helped me out a lot in regard to SASS: https://www.youtube.com/watch?v=Zz6eOVaaelI&t=146s
+A very interesting video that helped me out a lot in regard to SASS, all the different subjects regarding SASS (such as variables, nesting,...) are very well explained here: https://www.youtube.com/watch?v=Zz6eOVaaelI&t=146s
 
 Nice guide on working with operations: https://www.tutorialspoint.com/sass/number_operations.htm
 
+Nesting: https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/nesting-in-sass
